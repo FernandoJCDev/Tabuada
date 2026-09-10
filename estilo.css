@@ -1,5 +1,5 @@
-body {
-  background: rgb(70, 142, 236);
+body { /*Ajuste coloração no campo body*/
+  background: rgba(70, 142, 236, 0.363);
   font: normal 15pt arial;
 }
 
