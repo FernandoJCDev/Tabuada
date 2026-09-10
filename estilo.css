@@ -1,11 +1,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 body { /*Ajuste coloração no campo body via github remoto*/
   background: rgb(70, 142, 236);
 =======
 body { /*Ajuste coloração no campo body*/
   background: rgba(70, 142, 236, 0.363);
 >>>>>>> parent of 9f8607b (Ajuste coloração nº 2 no campo body)
+=======
+body { /*Ajuste coloração no campo body*/
+  background: rgba(172, 236, 70, 0.363);
+>>>>>>> parent of 8f55492 (Change body background color in estilo.css By Github.com)
 =======
 body { /*Ajuste coloração no campo body*/
   background: rgba(172, 236, 70, 0.363);
